@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SSH_easy_install": {
+      "commandName": "Project",
+      "commandLineArgs": "84.252.143.122"
+    }
+  }
+}
